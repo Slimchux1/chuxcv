@@ -6,11 +6,12 @@ body {
     padding: 20px;
     background-color: rgba(143, 188, 153, 0.678);
     font-family: 'Josefin Sans', sans-serif,
-    
+    margin: auto;
 }
 th {
     color: rgba(255, 51, 0, 0.568);
-    background-color: rgb(61, 139, 61)
+    background-color: rgb(61, 139, 61);
+    font-size: 20px;
 }
 
 #refree {
